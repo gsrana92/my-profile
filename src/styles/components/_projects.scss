@@ -1,0 +1,142 @@
+.wrapper-projects{
+   // background: green;
+    align-items: center;
+    background: #2B1EC2;
+    display: flex;
+    flex-direction: column;
+    //min-height: 120vh;
+
+    //margin-top: -5vh;
+    width: 100%;
+
+}
+
+.projects-title{
+    //background-color: chocolate;
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    height: 90px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    padding-left: 10px;
+    //padding-bottom: 40px;
+    width: 100%;
+    h2{
+        padding-left: 600px;
+        margin-bottom: -5px;
+    }
+ 
+
+    
+}
+
+.projects-title-descr{
+    //background: chartreuse;
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    margin-left: -60px;
+    margin-bottom: 34rem;
+    margin-top: 12px;
+    padding-left: 630px;
+    //width: 100%;
+
+}
+.grid {
+    //background-color: saddlebrown;
+    column-gap: 20px;
+    display: grid;
+    grid-template-rows: 300px 200px;
+    grid-template-columns: 350px 350px 350px;
+    justify-content: center;
+    margin-bottom: 20px;
+    padding-top: 70px;
+    padding-bottom: 100px;
+    row-gap: 20px;
+    width: 80%;
+
+
+  }
+
+// .card{
+//     //background-color: royalblue;
+//     grid-row: auto;
+//     grid-column: auto;
+//     //border-radius: 78px;
+    
+// }
+
+
+@media screen and (max-width: 45rem){
+    .wrapper-projects{
+        // background: green;
+         align-items: center;
+         background: #2B1EC2;
+         display: flex;
+         flex-direction: column;
+         height: auto;
+     
+         //margin-top: -5vh;
+         width: 100%;
+     
+     }
+     
+     .projects-title{
+         //background-color: chocolate;
+        //  color: #ffffff;
+        //  height: 90px;
+        //  margin-bottom: 50px;
+        //  margin-top: 30px;
+        //  padding-left: 10px;
+        //  padding-bottom: 40px;
+        //  width: 200px;
+           h2{
+               //margin-bottom: -10px;
+               padding-left: 160px;
+           }
+      
+     
+         
+     }
+     
+     .projects-title-descr{
+         //background: chartreuse;
+         //color: #ffffff;
+         //font-family: 'Poppins', sans-serif;
+         //font-size: 15px;
+         //margin-left: -60px;
+        // margin-bottom: 34rem;
+         //margin-top: 12px;
+         padding-left: 190px;
+         width: 100%;
+     
+     }
+     .grid {
+         //background-color: saddlebrown;
+         //column-gap: 20px;
+         display: flex;
+         flex-direction: column;
+         grid-template-rows: 500px;
+         grid-template-columns: 500px ;
+         justify-content: center;
+        // margin-bottom: 20px;
+        // padding-top: 70px;
+         padding-left: 6px;
+         //padding-bottom: 80px;
+         row-gap: 20px;
+         width: 100%;
+     
+     
+       }
+     
+    //  .card{
+    //      //background-color: royalblue;
+    //      //grid-row: auto;
+    //     // grid-column: auto;
+    //      width: 100%;
+    //  }
+
+
+}
