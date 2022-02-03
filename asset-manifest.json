@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/my-profile/static/css/main.f45e0e88.chunk.css",
+    "main.js": "/my-profile/static/js/main.6d636ddd.chunk.js",
+    "main.js.map": "/my-profile/static/js/main.6d636ddd.chunk.js.map",
+    "runtime-main.js": "/my-profile/static/js/runtime-main.a6187940.js",
+    "runtime-main.js.map": "/my-profile/static/js/runtime-main.a6187940.js.map",
+    "static/js/2.36321582.chunk.js": "/my-profile/static/js/2.36321582.chunk.js",
+    "static/js/2.36321582.chunk.js.map": "/my-profile/static/js/2.36321582.chunk.js.map",
+    "static/js/3.9761407e.chunk.js": "/my-profile/static/js/3.9761407e.chunk.js",
+    "static/js/3.9761407e.chunk.js.map": "/my-profile/static/js/3.9761407e.chunk.js.map",
+    "index.html": "/my-profile/index.html",
+    "static/css/main.f45e0e88.chunk.css.map": "/my-profile/static/css/main.f45e0e88.chunk.css.map",
+    "static/js/2.36321582.chunk.js.LICENSE.txt": "/my-profile/static/js/2.36321582.chunk.js.LICENSE.txt",
+    "static/media/AWS Certified Developer - Associate certificate.c04cad25.pdf": "/my-profile/static/media/AWS Certified Developer - Associate certificate.c04cad25.pdf",
+    "static/media/Resume_DA.550bd947.pdf": "/my-profile/static/media/Resume_DA.550bd947.pdf",
+    "static/media/blue.d4de8f90.jpg": "/my-profile/static/media/blue.d4de8f90.jpg",
+    "static/media/mypic.8c3a1d01.jpeg": "/my-profile/static/media/mypic.8c3a1d01.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6187940.js",
+    "static/js/2.36321582.chunk.js",
+    "static/css/main.f45e0e88.chunk.css",
+    "static/js/main.6d636ddd.chunk.js"
+  ]
+}
