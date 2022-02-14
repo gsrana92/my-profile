@@ -98,10 +98,10 @@ export const AboutPage = () => {
           </div>
           
           <div className="box-layout__bottom__experience">
-            <h2>My Experience</h2>
+            <h2>About Me</h2>
             <p>
               Motivated by data and results, my passion and experience combined
-              will help any company's expectations. I am as comfortable working 
+              will help meet any company's expectations. I am as comfortable working 
               in a team as I am contributing towards effective data engineering.
               I like building data intensive applications and am well acquainted
               with Python, PySpark, SQL, databases, acquiring and wrangling data.
