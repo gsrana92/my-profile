@@ -37,7 +37,7 @@ export const AboutPage = () => {
             <h2>Skills</h2>
             <div className="box-layout__top__skills__item">
               <i aria-hidden="true" class="far fa-dot-circle"></i>
-              <span>Python, PySpark, Azure ADF, Flask</span>
+              <span>Python, PySpark, Azure ADF, Flask API</span>
             </div>
             <div className="box-layout__top__skills__item">
               <i aria-hidden="true" class="far fa-dot-circle"></i>
