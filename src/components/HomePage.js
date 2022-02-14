@@ -24,9 +24,9 @@ export const HomePage = () => {
         </div>
 
         <div id="container" className="container">
-          I love solving complex problems. A
-          huge cricket fan and in my spare time I like to read fantasy novels
-          and play video games and create small web applications.
+          A data engineer with more than two years of experience. A
+          huge cricket fan and in my spare time I like to read novels
+          and play video games and learn new tech related stuff.
         </div>
         <div className="line-class">
           <img

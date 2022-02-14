@@ -37,11 +37,11 @@ export const AboutPage = () => {
             <h2>Skills</h2>
             <div className="box-layout__top__skills__item">
               <i aria-hidden="true" class="far fa-dot-circle"></i>
-              <span>Python, PySpark, Azure ADF, Flask API</span>
+              <span>Python, PySpark, SQL</span>
             </div>
             <div className="box-layout__top__skills__item">
               <i aria-hidden="true" class="far fa-dot-circle"></i>
-              <span>ReactJS, Redux, Babel, ES6, Webpack</span>
+              <span>Numpy, Pandas, Databricks, Jupyter, Azure ADF, Flask API </span>
             </div>
             <div className="box-layout__top__skills__item">
               <i aria-hidden="true" class="far fa-dot-circle"></i>
@@ -49,17 +49,26 @@ export const AboutPage = () => {
             </div>
             <div className="box-layout__top__skills__item">
               <i aria-hidden="true" class="far fa-dot-circle"></i>
-              <span>Numpy, Pandas</span>
+              <span>ReactJS, Redux, Babel, ES6, Webpack</span>
             </div>
             <div className="box-layout__top__skills__item">
               <i aria-hidden="true" class="far fa-dot-circle"></i>
               <span>
-                AWS Associate Developer{" "}
-                <a className="link" rel="noopener noreferrer" href='https://gsrana-aws-bucket.s3.amazonaws.com/AWS+Certified+Developer+-+Associate+certificate.pdf' target="_blank">
+                Azure Data Engineer Associate{" "}
+                <a className="link" rel="noopener noreferrer" href='https://my-web-bucket-v1.s3.us-east-2.amazonaws.com/azure.pdf' target="_blank">
                   (See Certificate)
                 </a>
               </span>
             </div>
+            <div className="box-layout__top__skills__item">
+            <i aria-hidden="true" class="far fa-dot-circle"></i>
+            <span>
+              AWS Associate Developer{" "}
+              <a className="link" rel="noopener noreferrer" href='https://my-web-bucket-v1.s3.us-east-2.amazonaws.com/AWS+Certified+Developer+-+Associate+certificate.pdf' target="_blank">
+                (See Certificate)
+              </a>
+            </span>
+          </div>
           </div>
         </div>
         <div className="box-layout__bottom">
@@ -91,12 +100,11 @@ export const AboutPage = () => {
           <div className="box-layout__bottom__experience">
             <h2>My Experience</h2>
             <p>
-              A creative and innovative Entry-level Architect, passionate about
-              building designs and advanced construction solutions. Posses the
-              ability to evaluate and manipulate designs as per client
-              expectation. Have a strong focus on energy-efficient designs and
-              open to contributing designs to a design firm's project
-              repository.
+              Motivated by data and results, my passion and experience combined
+              will help any company's expectations. I am as comfortable working 
+              in a team as I am contributing towards effective data engineering.
+              I like building data intensive applications and am well acquainted
+              with Python, PySpark, SQL, databases, acquiring and wrangling data.
             </p>
             <div className="resume">
               <img height="20" width="20" src={download} alt="download-icon" className='download-icon'/>
